@@ -1,6 +1,6 @@
 # MERN-AI_ChatBot
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KulkarniShrinivas/social-media-app/blob/main/LICENSE) 
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![MUIv5](https://img.shields.io/badge/-MUIv5-0081CB?logo=material-ui&logoColor=white)
@@ -27,7 +27,6 @@ The NexGen_ChatBot is a modern AI project that leverages the OpenAI API to creat
 - **Conversation Tracking:** Utilizes a database to store user chats for effective tracking.
 - **User Flexibility:** Allows users to delete their conversations at any time for enhanced privacy.
 
-- ![chat2](https://github.com/KulkarniShrinivas/NexGen_ChatBot/assets/91586785/2207ea6a-263b-4dc8-9d35-1a254058fd70)
 
 
 ## Technology Stack
