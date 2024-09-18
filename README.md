@@ -66,8 +66,6 @@ The NexGen_ChatBot is a modern AI project that leverages the OpenAI API to creat
 
 - Follow guidelines for setting up the local development environment.
 
-## Contact
-For inquiries, please contact [Contact](mailto:kulkarnishrinivas99@gmail.com).
 
 
 
